@@ -1,0 +1,19 @@
+{
+  "name": "electron-fundamentials-training",
+  "version": "1.0.0",
+  "description": "Electron Fundamentials Course on Pluralsight",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihristova11/electron-fundamentials-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihristova11/electron-fundamentials-training/issues"
+  },
+  "homepage": "https://github.com/ihristova11/electron-fundamentials-training#readme"
+}
