@@ -22,7 +22,7 @@ app.on('ready', _ => {
 
 ipc.on('countdown-start', _ => {
   console.log('starting!')
-
+    
   countdown(count => {
     console.log("count", count)
       win.webContents.send('countdown', count)
