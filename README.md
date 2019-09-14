@@ -1,2 +1,2 @@
 # electron-fundamentals-training
-Electron Fundamentials Course on Pluralsight 
+Electron Fundamentals Course on Pluralsight 
